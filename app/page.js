@@ -34,18 +34,15 @@ const Page = () => {
       <Hero content={content} />
       <div className="raltive">
         <About content={content} />
-        <div className="gradient-03 z-0" />
         <Explore />
       </div>
       <div className="raltive">
         <GetStarted />
-        <div className="gradient-04 z-0" />
         <WhatsNew />
       </div>
       <World />
       <div className="raltive">
         <Insights />
-        <div className="gradient-04 z-0" />
         <Feedback />
       </div>
       <Footer />
